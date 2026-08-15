@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "mandatory": false,
+  "changelog": "Verificação de atualização dentro do app: agora o app avisa quando sai uma versão nova, com opção de atualizar na hora ou lembrar depois.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.1.apk"
+}
