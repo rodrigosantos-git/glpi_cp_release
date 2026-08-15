@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "mandatory": false,
-  "changelog": "Manual de uso atualizado (como instalar atualizações e o botão de IA nas estrelinhas). Novo: botão de IA (estrelinhas) pra revisar o texto do 'Compor Mensagem' do WhatsApp antes de enviar.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.3.apk"
+  "changelog": "A verificação de atualização agora roda também toda vez que o app volta do segundo plano, não só quando é aberto do zero.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.4.apk"
 }
