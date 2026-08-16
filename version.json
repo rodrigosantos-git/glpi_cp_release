@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "mandatory": false,
-  "changelog": "Nova identidade visual: logo oficial Car Park + GLPI aplicada na splash (fundo branco) e no ícone do app.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.5.apk"
+  "changelog": "Ordenação da lista de chamados agora sempre volta para 'Mais Recentes' ao reabrir o app. Novo em Ajustes: escolha quais categorias aparecem no filtro rápido (antes essa lista nunca era configurável).",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.6.apk"
 }
