@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
+  "versionCode": 12,
+  "versionName": "1.11",
   "mandatory": false,
-  "changelog": "Agenda de Visita: corrige a data quebrando de linha no diálogo de Data/Horário, e adiciona checagem de conflito — mostra as visitas já marcadas no dia (7h-23h) e impede agendar no mesmo horário para uma entidade diferente.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.10.apk"
+  "changelog": "Removida a funcionalidade de Agenda de Visita (não fazia parte do escopo deste app e não tinha nenhum botão para acessá-la). Corrigido: notificações em segundo plano não disparam mais uma enxurrada de 'Novo Chamado' na primeira sincronização após instalar/logar.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.11.apk"
 }
