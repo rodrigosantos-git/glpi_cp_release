@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "1.10",
   "mandatory": false,
-  "changelog": "Corrige o filtro de Categoria (Filtros): agora mostra as categorias reais dos chamados carregados, em vez de ficar sempre vazio.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.9.apk"
+  "changelog": "Agenda de Visita: corrige a data quebrando de linha no diálogo de Data/Horário, e adiciona checagem de conflito — mostra as visitas já marcadas no dia (7h-23h) e impede agendar no mesmo horário para uma entidade diferente.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.10.apk"
 }
