@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "mandatory": false,
-  "changelog": "Removida a seção 'Categorias no Filtro Rápido' dos Ajustes.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.8.apk"
+  "changelog": "Corrige o filtro de Categoria (Filtros): agora mostra as categorias reais dos chamados carregados, em vez de ficar sempre vazio.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.9.apk"
 }
