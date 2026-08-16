@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "mandatory": false,
-  "changelog": "Agora mostra a versão instalada do app no final da tela de Ajustes, pra facilitar conferir se uma atualização realmente aplicou.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.7.apk"
+  "changelog": "Removida a seção 'Categorias no Filtro Rápido' dos Ajustes.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.8.apk"
 }
