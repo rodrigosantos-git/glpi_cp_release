@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "mandatory": false,
-  "changelog": "A verificação de atualização agora roda também toda vez que o app volta do segundo plano, não só quando é aberto do zero.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.4.apk"
+  "changelog": "Nova identidade visual: logo oficial Car Park + GLPI aplicada na splash (fundo branco) e no ícone do app.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.5.apk"
 }
