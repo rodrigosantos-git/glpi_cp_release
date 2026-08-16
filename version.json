@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "mandatory": false,
-  "changelog": "Ordenação da lista de chamados agora sempre volta para 'Mais Recentes' ao reabrir o app. Novo em Ajustes: escolha quais categorias aparecem no filtro rápido (antes essa lista nunca era configurável).",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.6.apk"
+  "changelog": "Agora mostra a versão instalada do app no final da tela de Ajustes, pra facilitar conferir se uma atualização realmente aplicou.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.7.apk"
 }
