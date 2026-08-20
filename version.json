@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
+  "versionCode": 19,
+  "versionName": "1.18",
   "mandatory": false,
-  "changelog": "Ditado por voz melhorado: agora fica escutando continuamente (não corta mais sozinho depois de uma pausa curta). Diga 'fechar assunto' no campo Título ou 'fechar descrição' no campo Descrição/Compor Mensagem pra encerrar o microfone sozinho.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.17.apk"
+  "changelog": "Corrige o ditado de voz não reconhecendo nada: faltava declarar <queries> no manifesto para o app enxergar o serviço de reconhecimento de voz do sistema (Android 11+). Também: mensagens de erro claras se o reconhecimento falhar, e para automaticamente após várias tentativas sem entender nada.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.18.apk"
 }
