@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
-  "mandatory": false,
-  "changelog": "Corrige o ditado de voz não reconhecendo nada: faltava declarar <queries> no manifesto para o app enxergar o serviço de reconhecimento de voz do sistema (Android 11+). Também: mensagens de erro claras se o reconhecimento falhar, e para automaticamente após várias tentativas sem entender nada.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.18.apk"
+  "versionCode": 20,
+  "versionName": "1.19",
+  "mandatory": true,
+  "changelog": "Reverte o ditado de voz contínuo (1.17/1.18) — não estava funcionando de verdade (o texto reconhecido não chegava no app). Volta pro microfone antigo (o mesmo Intent do sistema de antes, que já funcionava). Todo o resto das versões anteriores (neon, sino, notificações, login salvo, etc.) continua.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.19.apk"
 }
