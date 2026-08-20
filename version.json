@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
+  "versionCode": 15,
+  "versionName": "1.14",
   "mandatory": false,
-  "changelog": "Corrige bug importante: o app pegava o PRIMEIRO acompanhamento do chamado (não o mais recente) pra comparar e decidir se notifica e pra exibir no card — por isso um acompanhamento novo às vezes não disparava notificação nem atualizava o texto exibido.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.13.apk"
+  "changelog": "Corrige regressão: o card voltou a mostrar o acompanhamento mais antigo em vez do mais recente. O GLPI retorna esse campo com o mais recente no índice 0 (não no último) — revertido para usar o índice 0.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.14.apk"
 }
