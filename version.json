@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
+  "versionCode": 16,
+  "versionName": "1.15",
   "mandatory": false,
-  "changelog": "Corrige regressão: o card voltou a mostrar o acompanhamento mais antigo em vez do mais recente. O GLPI retorna esse campo com o mais recente no índice 0 (não no último) — revertido para usar o índice 0.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.14.apk"
+  "changelog": "Corrige a causa raiz de nunca receber notificações: sem a caixa 'Lembrar de mim' marcada no login, o app não guardava usuário/senha e a sincronização em segundo plano nunca conseguia logar sozinha pra checar novidades. Agora vem marcada por padrão, com um aviso explicando por quê. Quem já está logado precisa sair e entrar de novo uma vez para o efeito valer.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.15.apk"
 }
