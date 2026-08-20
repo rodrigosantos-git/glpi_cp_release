@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
+  "versionCode": 14,
+  "versionName": "1.13",
   "mandatory": false,
-  "changelog": "Ordenação da lista corrigida de verdade (ordena por data de abertura, não só invertia a lista). Prefixo de operadora detectado antes do DDD ao ligar. Notificações levam direto pro chamado. Sino piscando na faixa lateral do card avisa atualização não vista. IA trocada para gemini-3.5-flash-lite. Card duplicado morto removido.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.12.apk"
+  "changelog": "Corrige bug importante: o app pegava o PRIMEIRO acompanhamento do chamado (não o mais recente) pra comparar e decidir se notifica e pra exibir no card — por isso um acompanhamento novo às vezes não disparava notificação nem atualizava o texto exibido.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.13.apk"
 }
