@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
+  "versionCode": 18,
+  "versionName": "1.17",
   "mandatory": false,
-  "changelog": "Efeito neon na faixa lateral do card (brilho acende/apaga em vez de só piscar a faixa fina). Novo sino com contador de chamados com atualização não vista, ao lado do filtro Mais Recentes/Mais Antigos. Manual atualizado explicando como identificar um card atualizado.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.16.apk"
+  "changelog": "Ditado por voz melhorado: agora fica escutando continuamente (não corta mais sozinho depois de uma pausa curta). Diga 'fechar assunto' no campo Título ou 'fechar descrição' no campo Descrição/Compor Mensagem pra encerrar o microfone sozinho.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.17.apk"
 }
