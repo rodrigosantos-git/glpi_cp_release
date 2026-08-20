@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
+  "versionCode": 13,
+  "versionName": "1.12",
   "mandatory": false,
-  "changelog": "Removida a funcionalidade de Agenda de Visita (não fazia parte do escopo deste app e não tinha nenhum botão para acessá-la). Corrigido: notificações em segundo plano não disparam mais uma enxurrada de 'Novo Chamado' na primeira sincronização após instalar/logar.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.11.apk"
+  "changelog": "Ordenação da lista corrigida de verdade (ordena por data de abertura, não só invertia a lista). Prefixo de operadora detectado antes do DDD ao ligar. Notificações levam direto pro chamado. Sino piscando na faixa lateral do card avisa atualização não vista. IA trocada para gemini-3.5-flash-lite. Card duplicado morto removido.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.12.apk"
 }
