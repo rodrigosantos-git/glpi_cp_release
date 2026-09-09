@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
-  "mandatory": false,
-  "changelog": "Manual de uso reformulado: linguagem mais simples, com captura de tela real do app, destaque para como a IA (Gemini) deixa o app mais prático (ditado de voz sem cortar, correção de texto, compor chamado por uma frase), e orientação para pedir apoio ao TI da Car Park na configuração.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.20.apk"
+  "versionCode": 22,
+  "versionName": "1.21",
+  "mandatory": true,
+  "changelog": "Abertura de chamado agora permite escolher Observador e Atribuído em qualquer categoria (antes só aparecia em Área Técnica/GQ), exceto para perfil Gerente. Corrige bug que impedia apagar texto digitado nos campos Observador e Atribuído.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.21.apk"
 }
