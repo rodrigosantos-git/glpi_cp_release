@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
+  "versionCode": 23,
+  "versionName": "1.22",
   "mandatory": true,
-  "changelog": "Abertura de chamado agora permite escolher Observador e Atribuído em qualquer categoria (antes só aparecia em Área Técnica/GQ), exceto para perfil Gerente. Corrige bug que impedia apagar texto digitado nos campos Observador e Atribuído.",
-  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-CAR-PARK-1.21.apk"
+  "changelog": "O app agora se chama GLPI. Toque em Atualizar Agora para instalar o novo app GLPI. Depois abra o GLPI, faça login de novo e DESINSTALE este app antigo (GLPI CAR PARK): ele não recebe mais atualizações. Novidades: cards de chamados em aberto/fechados/últimos acompanhamentos, corretor ortográfico, observador no card e, para GQ e Área Técnica, atribuir técnico e observadores.",
+  "apkUrl": "https://raw.githubusercontent.com/rodrigosantos-git/glpi_cp_release/main/releases/GLPI-1.22.apk"
 }
